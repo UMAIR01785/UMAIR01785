@@ -6,9 +6,19 @@ I'm a **Computer Science student** and aspiring **Full-Stack Developer** passion
 
 ---
 
+## 🏷️ Skills Snapshot
+
+![Frontend](https://img.shields.io/badge/Frontend-React%20%7C%20HTML5%20%7C%20CSS3-blue?style=for-the-badge)
+![Backend](https://img.shields.io/badge/Backend-Django%20%7C%20Python-green?style=for-the-badge)
+![Database](https://img.shields.io/badge/Database-PostgreSQL%20%7C%20SQL-purple?style=for-the-badge)
+![Tools](https://img.shields.io/badge/Tools-Git%20%7C%20GitHub%20%7C%20VS%20Code-orange?style=for-the-badge)
+
+---
+
 ## 🚀 Tech Stack
 
 **Frontend:**
+- React.js
 - HTML5, CSS3, JavaScript (ES6+)
 - Bootstrap
 - Responsive Design & UI/UX Principles
@@ -28,19 +38,43 @@ I'm a **Computer Science student** and aspiring **Full-Stack Developer** passion
 
 ---
 
-## 💻 Projects & Experience
+## 📂 Project Portfolio
 
-🛍️ **E-Commerce Platform**  
-Built full-featured shopping cart functionality with product listing, dynamic subtotal calculation, and user session management.
+### 🧩 Full-Stack Projects
 
-✍️ **Blog Application**  
-Developed a complete CRUD blog system with user authentication, URL slugs, media uploads, and comment functionality using Django.
+#### 1) [BLog_React_django](https://github.com/UMAIR01785/BLog_React_django)
+- **Type:** Full-stack blog platform
+- **Description:** A complete blogging system with a React-powered frontend and Django backend, supporting post management workflows and dynamic content rendering.
+- **Tech Stack:** React.js, Django, Python, JavaScript, HTML, CSS, PostgreSQL/SQL
+- **Skills Demonstrated:** Frontend-backend integration, API consumption, CRUD architecture, content management workflows
 
-🔐 **Authentication System**  
-Implemented secure user registration, login, and logout flows with password hashing and session management.
+#### 2) [Mini-Ecom-React-django](https://github.com/UMAIR01785/Mini-Ecom-React-django)
+- **Type:** Full-stack e-commerce platform
+- **Description:** A mini e-commerce solution featuring product browsing, cart handling, and core commerce flows through a React client with Django services.
+- **Tech Stack:** React.js, Django, Python, JavaScript, HTML, CSS, PostgreSQL/SQL
+- **Skills Demonstrated:** Shopping cart logic, state handling, backend integration, scalable project structure
 
-🎨 **Frontend Showcases**  
-Created responsive, mobile-first websites using modern CSS techniques and Bootstrap framework.
+### 🎨 Frontend & UI Projects
+
+#### 3) [Chair_website](https://github.com/UMAIR01785/Chair_website)
+- **Type:** Responsive frontend website
+- **Description:** A clean, responsive website project focused on modern layout techniques and polished user interface design using core web technologies.
+- **Tech Stack:** HTML5, CSS3, JavaScript
+- **Skills Demonstrated:** Responsive design, semantic markup, styling systems, layout composition
+
+#### 4) [Restaurant Website (Restrurent-website)](https://github.com/UMAIR01785/Restrurent-website)
+- **Type:** Restaurant showcase website
+- **Description:** A restaurant-themed website emphasizing visual presentation, page structure, and user-friendly navigation.
+- **Tech Stack:** HTML5, CSS3, JavaScript
+- **Skills Demonstrated:** Landing page design, content presentation, frontend implementation fundamentals
+
+### 👤 Profile & Developer Branding
+
+#### 5) [UMAIR01785](https://github.com/UMAIR01785/UMAIR01785)
+- **Type:** GitHub profile repository
+- **Description:** My profile repository where I present my projects, technical growth, learning goals, and developer journey.
+- **Tech Stack:** Markdown, GitHub Profile README widgets
+- **Skills Demonstrated:** Technical communication, documentation quality, portfolio organization
 
 ---
 
@@ -71,6 +105,14 @@ Created responsive, mobile-first websites using modern CSS techniques and Bootst
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UMAIR01785&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UMAIR01785&theme=tokyonight&hide_border=true)
+
+---
+
+## 📣 Call to Action
+
+- 🔎 **Explore all repositories:** [github.com/UMAIR01785?tab=repositories](https://github.com/UMAIR01785?tab=repositories)
+- 🤝 **Open to collaborations:** Full-stack web apps, frontend builds, and Django-based backend work
+- 💬 **Let’s connect:** Share feedback, opportunities, or project ideas via GitHub
 
 ---
 
