@@ -62,7 +62,7 @@ I'm a **Computer Science student** and aspiring **Full-Stack Developer** passion
 - **Tech Stack:** HTML5, CSS3, JavaScript
 - **Skills Demonstrated:** Responsive design, semantic markup, styling systems, layout composition
 
-#### 4) [Restrurent-website](https://github.com/UMAIR01785/Restrurent-website)
+#### 4) [Restaurant Website (Restrurent-website)](https://github.com/UMAIR01785/Restrurent-website)
 - **Type:** Restaurant showcase website
 - **Description:** A restaurant-themed website emphasizing visual presentation, page structure, and user-friendly navigation.
 - **Tech Stack:** HTML5, CSS3, JavaScript
