@@ -1,6 +1,7 @@
 # Hi there, I'm Umair! 👋
 
-I'm a **Computer Science student** and aspiring **Full-Stack Developer** passionate about building modern web applications. Currently focused on mastering both frontend and backend technologies to create seamless, user-centric digital experiences.
+I'm a **Computer Science student** and aspiring **Full-Stack Developer** passionate about building modern web applications.  
+Currently focused on mastering both **frontend** and **backend** technologies to create seamless, user-centric digital experiences.
 
 💼 **Goal:** Land a role at a top-tier tech company and contribute to products that impact millions of users.
 
@@ -8,59 +9,94 @@ I'm a **Computer Science student** and aspiring **Full-Stack Developer** passion
 
 ## 🚀 Tech Stack
 
-**Frontend:**
+**Frontend**
 - HTML5, CSS3, JavaScript (ES6+)
 - Bootstrap
 - Responsive Design & UI/UX Principles
+- React (learning + building)
 
-**Backend:**
+**Backend**
 - Python
 - Django Framework
 - RESTful API Development
 
-**Database:**
+**Database**
 - PostgreSQL
-- SQL
+- SQL (SQLite for development)
 
-**Tools & Version Control:**
+**Tools**
 - Git & GitHub
 - VS Code
 
 ---
 
-## 💻 Projects & Experience
+## 💻 Projects (Work & Practice)
 
-🛍️ **E-Commerce Platform**  
-Built full-featured shopping cart functionality with product listing, dynamic subtotal calculation, and user session management.
+### 🛒 Sofa E-Commerce Platform (Django) — `Chair_website`
+A furniture e-commerce platform built with Django, featuring a clean responsive UI and core e-commerce flows.
 
-✍️ **Blog Application**  
-Developed a complete CRUD blog system with user authentication, URL slugs, media uploads, and comment functionality using Django.
+**Key Features**
+- Product catalog + product detail pages
+- Shopping cart (add/remove/update quantity, subtotal calculations)
+- Order module (place and track orders)
+- Blog module + featured posts
+- Responsive UI using Bootstrap
 
-🔐 **Authentication System**  
-Implemented secure user registration, login, and logout flows with password hashing and session management.
+**Repository:** https://github.com/UMAIR01785/Chair_website
 
-🎨 **Frontend Showcases**  
-Created responsive, mobile-first websites using modern CSS techniques and Bootstrap framework.
+---
+
+### 📝 Blog App (React + Django) — `BLog_React_django`
+A full-stack blog application with a React frontend and Django backend (structured into separate Frontend/Backend folders).
+
+**Key Features / Work Done**
+- React (Vite) frontend setup + routing
+- Tailwind CSS-based UI setup
+- Django backend project setup for blog features and API integration
+
+**Repository:** https://github.com/UMAIR01785/BLog_React_django
+
+---
+
+### 🛍️ Mini E-Commerce (React + Django) — `Mini-Ecom-React-django`
+A mini e-commerce project to practice full-stack structure and backend architecture in Django.
+
+**Key Features / Work Done**
+- Django backend setup (project: `Ecom_main`)
+- Prepared structure for products/cart/orders style features
+- Full-stack workflow practice (separating backend and frontend)
+
+**Repository:** https://github.com/UMAIR01785/Mini-Ecom-React-django
+
+---
+
+### 🍽️ Restaurant Website (Django) — `Restrurent-website`
+A Django-based restaurant web project with multiple apps (accounts/vendor/menu) and template/static/media setup.
+
+**Key Features / Work Done**
+- Multi-app Django architecture
+- Custom user model setup (`AUTH_USER_MODEL`)
+- Static + media configuration and templates structure
+
+**Repository:** https://github.com/UMAIR01785/Restrurent-website
 
 ---
 
 ## 📚 Currently Learning
-
-- Advanced Django patterns (Class-Based Views, Middleware, Signals)
-- JavaScript frameworks (React.js/Vue.js)
+- Advanced Django patterns (CBVs, Middleware, Signals)
+- JavaScript frameworks (React.js / Vue.js)
 - Database optimization & query performance
-- Cloud deployment (AWS/Heroku)
-- RESTful API design & best practices
+- Cloud deployment (AWS / Heroku)
+- REST API design & best practices
 
 ---
 
 ## 🎯 Goals for 2026
-
-✅ Master full-stack web development  
-✅ Build and deploy 5+ production-ready projects  
-✅ Contribute to open-source projects  
-✅ Secure an internship or junior developer role at a leading tech company  
-✅ Strengthen DSA skills for technical interviews
+- ✅ Master full-stack web development  
+- ✅ Build and deploy 5+ production-ready projects  
+- ✅ Contribute to open-source projects  
+- ✅ Secure an internship or junior developer role  
+- ✅ Strengthen DSA skills for technical interviews  
 
 ---
 
@@ -75,10 +111,9 @@ Created responsive, mobile-first websites using modern CSS techniques and Bootst
 ---
 
 ## 🤝 Connect With Me
-
-💬 Open to collaboration, learning opportunities, and tech discussions!  
-📧 Feel free to reach out for project collaborations or freelance work.
+💬 Open to collaboration, learning opportunities, and tech discussions.  
+📧 Reach out for project collaborations or freelance work.
 
 ---
 
-⭐️ *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+⭐️ *"Code is like humor. When you have to explain it, it's bad."* — Cory House
