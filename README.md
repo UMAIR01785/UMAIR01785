@@ -30,55 +30,54 @@ Currently focused on mastering both **frontend** and **backend** technologies to
 
 ---
 
-## 💻 Projects (Work & Practice)
+## 💻 All Projects
 
-### 🛒 Sofa E-Commerce Platform (Django) — `Chair_website`
-A furniture e-commerce platform built with Django, featuring a clean responsive UI and core e-commerce flows.
+### 🔹 Active & Recent Projects
+- **Ecom in FastAPI** (`Ecom_in_fastapi`)  
+  FastAPI-based e-commerce backend work.  
+  Repository: https://github.com/UMAIR01785/Ecom_in_fastapi
 
-**Key Features**
-- Product catalog + product detail pages
-- Shopping cart (add/remove/update quantity, subtotal calculations)
-- Order module (place and track orders)
-- Blog module + featured posts
-- Responsive UI using Bootstrap
+- **FlyRank CRUD** (`FlyRank_Curd`)  
+  CRUD-focused backend practice project in Python.  
+  Repository: https://github.com/UMAIR01785/FlyRank_Curd
 
-**Repository:** https://github.com/UMAIR01785/Chair_website
+- **ChatBoard AI** (`ChatBoard_ai`)  
+  AI-focused Python project for chat-style workflows.  
+  Repository: https://github.com/UMAIR01785/ChatBoard_ai
 
----
+- **Library System** (`Library_System`)  
+  Python project for library management flows.  
+  Repository: https://github.com/UMAIR01785/Library_System
 
-### 📝 Blog App (React + Django) — `BLog_React_django`
-A full-stack blog application with a React frontend and Django backend (structured into separate Frontend/Backend folders).
+### 🔹 Full-Stack & Django/React Projects
+- **Sofa E-Commerce Platform (Django)** (`Chair_website`)  
+  Furniture e-commerce platform with product catalog, cart, order, and blog modules.  
+  Repository: https://github.com/UMAIR01785/Chair_website
 
-**Key Features / Work Done**
-- React (Vite) frontend setup + routing
-- Tailwind CSS-based UI setup
-- Django backend project setup for blog features and API integration
+- **Blog App (React + Django)** (`BLog_React_django`)  
+  Full-stack blog app with separated frontend/backend architecture.  
+  Repository: https://github.com/UMAIR01785/BLog_React_django
 
-**Repository:** https://github.com/UMAIR01785/BLog_React_django
+- **Mini E-Commerce (React + Django)** (`Mini-Ecom-React-django`)  
+  Practice project for full-stack e-commerce architecture.  
+  Repository: https://github.com/UMAIR01785/Mini-Ecom-React-django
 
----
+- **Mini E-Commerce API (Django REST)** (`Mini-Ecom-django-api`)  
+  API-first Django e-commerce backend project.  
+  Repository: https://github.com/UMAIR01785/Mini-Ecom-django-api
 
-### 🛍️ Mini E-Commerce (React + Django) — `Mini-Ecom-React-django`
-A mini e-commerce project to practice full-stack structure and backend architecture in Django.
+- **Restaurant Website (Django)** (`Restrurent-website`)  
+  Multi-app Django project with accounts, vendor, and menu modules.  
+  Repository: https://github.com/UMAIR01785/Restrurent-website
 
-**Key Features / Work Done**
-- Django backend setup (project: `Ecom_main`)
-- Prepared structure for products/cart/orders style features
-- Full-stack workflow practice (separating backend and frontend)
+### 🔹 Portfolio & Profile Repositories
+- **Personal Portfolio Site** (`UMAIR01785.github.io`)  
+  GitHub Pages repository for portfolio/personal site.  
+  Repository: https://github.com/UMAIR01785/UMAIR01785.github.io
 
-**Repository:** https://github.com/UMAIR01785/Mini-Ecom-React-django
-
----
-
-### 🍽️ Restaurant Website (Django) — `Restrurent-website`
-A Django-based restaurant web project with multiple apps (accounts/vendor/menu) and template/static/media setup.
-
-**Key Features / Work Done**
-- Multi-app Django architecture
-- Custom user model setup (`AUTH_USER_MODEL`)
-- Static + media configuration and templates structure
-
-**Repository:** https://github.com/UMAIR01785/Restrurent-website
+- **GitHub Profile Repository** (`UMAIR01785`)  
+  Profile README and developer overview.  
+  Repository: https://github.com/UMAIR01785/UMAIR01785
 
 ---
 
